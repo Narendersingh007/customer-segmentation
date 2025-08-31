@@ -33,7 +33,7 @@ This project applies **Unsupervised Learning** (K-Means Clustering) to the **Mal
 
 ## 🗂️ Project Structure
 
-
+```
 Customer-Segmentation/
 
 │── data/
@@ -45,7 +45,7 @@ Customer-Segmentation/
 │── README.md
 │── requirements.txt
 
-
+```
 ---
 
 ## 🛠️ Installation
@@ -56,3 +56,4 @@ Customer-Segmentation/
 git clone https://github.com/Narendersingh007/customer-segmentation.git
 cd Customer-Segmentation
 ```
+
