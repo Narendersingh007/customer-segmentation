@@ -71,6 +71,6 @@ Contributions are welcome! If you have suggestions for improving this project, p
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
 ## 📧 Contact
-Your Name - [Your Profile Link](https://github.com/your-username)
+**Author**: [Narender Singh](https://github.com/Narendersingh007)  
 
-Project Link: [https://github.com/your-username/Customer-Segmentation](https://github.com/your-username/Customer-Segmentation)
+**Project Link**: [Customer Segmentation](https://github.com/Narendersingh007/customer-segmentation)
